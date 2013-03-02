@@ -1,5 +1,5 @@
 # Description
-  A simple wordpress puppet deployment
+A simple wordpress puppet deployment
 
 # Dependencies
-  - puppet module install puppetlabs/vcsrepo
+    puppet module install puppetlabs/vcsrepo
